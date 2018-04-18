@@ -1,6 +1,6 @@
 </div>
         </div>
-        <div class="jumbotron footer">
+        <div class="jumbotron footer" style="margin-bottom:0px;">
             <div class="container">
             <div class="col-md-4 col-sm-8 col-xs-12">
                 <h2>Contatos</h2>
@@ -28,5 +28,5 @@
             </div>
             </div>
         </div>
-    </body >
+    </body>
 </html>
